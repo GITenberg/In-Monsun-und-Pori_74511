@@ -1,0 +1,25 @@
+_repo: In-Monsun-und-Pori_74511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wenig, Richard
+    gutenberg_agent_id: '57533'
+    url: http://www.gutenberg.org/2009/agents/57533
+description: ''
+gutenberg_issued: '2024-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74511'
+language: de
+pgterms:marc905: 20180916042630wenig
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bSafari-Verlag G. m. b. H., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In Monsun und Pori
+url: http://www.gutenberg.org/ebooks/74511
