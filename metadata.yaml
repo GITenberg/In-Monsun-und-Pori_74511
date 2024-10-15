@@ -1,11 +1,16 @@
 _repo: In-Monsun-und-Pori_74511
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74511-h/images/cover.jpg
 creator:
   author:
     agent_name: Wenig, Richard
     gutenberg_agent_id: '57533'
     url: http://www.gutenberg.org/2009/agents/57533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74511#In-Monsun-und-Pori
 gutenberg_issued: '2024-10-03'
 gutenberg_type: Text
 identifiers:
